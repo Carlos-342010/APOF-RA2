@@ -1,7 +1,7 @@
-# Titulo 1
-## Titulo 2
-### Titulo 3
-![texto](imagen.png)
+# Texto 1
+## Texto 2
+### Texto 3
+![tento](imagen.png)
 | Producto | Calidad | Precio |
 |-----|-----------|--------|
 | Patatas | Muy buenas | 5$ |
