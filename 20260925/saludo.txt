@@ -1,0 +1,5 @@
+Bienvenidos y Bienvenidas a mi fichero saludo.txt
+
+Al tratrase de de un fichero de tipo txt si escribo de tipo markdown como son **negritas** no funcionará.
+
+Lo mismo ocurrirá si utilizo sintaxis de HTML como es <strong>strong>/stongo>
